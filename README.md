@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Data Science, Machine Learning and Artificial Intelligence**
 
-- 🌱 I’m currently learning **Advanced Learning Algorithms**
+- 🌱 I’m currently learning **CRM Analytics**
 
 - 📫 How to reach me **denizcansuturan@gmail.com**
 
