@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Deniz Cansu Turan</h1>
-<h3 align="center">an engineer with a passion for computer and data science</h3>
+<h3 align="center">an engineer with a passion for computer and data science (sharing as I learn)</h3>
 
 - 🔭 I’m currently working on **Data Science, Machine Learning and Artificial Intelligence**
 
