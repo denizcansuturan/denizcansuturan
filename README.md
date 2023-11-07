@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Deniz Cansu Turan</h1>
-<h3 align="center">an engineer with a passion for computer and data science (sharing as I learn)</h3>
+<h3 align="center">an engineer working on her master's degree in data science (sharing as I learn)</h3>
 
 - 🔭 I’m currently working on **Data Science, Machine Learning and Artificial Intelligence**
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Machine Learning - Data Management**
 
 - 📫 How to reach me **denizcansuturan@gmail.com**
 
