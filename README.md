@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Machine Learning - Data Management**
 
-- 📫 How to reach me **denizcansuturan@gmail.com**
+- 📫 How to reach me **turandenizcansu@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
